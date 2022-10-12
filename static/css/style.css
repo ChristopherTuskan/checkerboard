@@ -1,0 +1,22 @@
+h1{
+    padding: 20px;
+    margin: 0 auto;
+    width: 300px;
+    text-align: center;
+}
+
+.spot{
+    height:60px;
+    width:60px;
+    float: left;
+}
+
+.main{
+    width:max-content;
+    padding: 40px;
+    margin: 0px auto;
+}
+
+.row{
+    display: flex;
+}
